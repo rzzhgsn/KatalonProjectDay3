@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "CD9412437F9E484B1E0005CFD84F70BB",
+  "keywordClasses": [
+    {
+      "name": "Keywordbaru",
+      "keywordMethods": [
+        {
+          "name": "hello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
